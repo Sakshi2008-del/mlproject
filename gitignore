@@ -1,0 +1,9 @@
+venv/
+env/
+__pyache__/
+*.__pyache__
+.ipynb_checkpoints/
+.vscode/
+.env
+.DS_Store
+Thumbs.db
